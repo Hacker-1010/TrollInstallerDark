@@ -3,7 +3,7 @@
     <img src="Resources/Icon.png" width="125" height="125" />
 </div>
 
-# This repo is the only offical source to download TrollInstallerDark. Do not trust any other source.
+# This repo (rockylabs-dev/TrollInstallerDark) is the only offical source to download TrollInstallerDark. Do not trust any other source.
 
 ## Overview
 TrollInstallerDark is a modification of Alfie's [TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) to use the [DarkSword kernel exploit.](https://github.com/opa334/darksword-kexploit)
