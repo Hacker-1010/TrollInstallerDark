@@ -13,6 +13,10 @@ TrollInstallerDark only supports arm64 devices running iOS 15.7.2 - 15.8.x. Trol
 ## Usage
 TrollInstallerDark is extremely easy to use. Simply download the latest release from the Releases page, and sideload it using your preferred method. Once installed, open the app and press the "Install" button. From there, TrollStore and its persistence helper will be installed onto your device.
 
+### Installing without a Computer
+Thanks to [icraze](https://github.com/icrazeios) you can now install TrollInstallerDark without a computer.
+Head to https://jailbreaks.app/ select Apps, Other, then TrollInstallerDark and hit install.
+
 ## FAQ
 > Why am I stuck at "Exploiting kernel"?
 
